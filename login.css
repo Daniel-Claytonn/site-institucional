@@ -1,0 +1,79 @@
+.caixa-formulario {
+    background-color: #e5e5e5;
+    padding: 50px 50px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.caixa-formulario h2 {
+    color: #e6005a;
+    margin-bottom: 20px;
+
+}
+
+.campo {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 13px;
+}
+
+.campo input {
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid #32b9cd;
+    color: black;
+}
+
+
+.campo label {
+    color: #e6005a;
+    font-weight: bold
+}
+
+.caixa-formulario button {
+    margin-top: ;
+    width: 120px;
+    color: #ffffff;
+    background-color: red;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.caixa-formulario button:hover {
+    opacity: 0.8;
+}
+
+/*
+button {
+    width: 60px;
+    height: 30px;
+    background-color: red;
+    border-radius: 10px;
+    border: 2px solid #000000;
+    
+}
+
+#email{
+    height: 20px;
+    border: 2px solid #32b9cd;
+    border-radius: 5px;
+}
+
+#password {
+    height: 20px;
+    border: 2px solid #32b9cd;
+    border-radius: 5px;
+
+}
+
+*/
