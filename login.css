@@ -31,8 +31,6 @@
     text-align: center;
 }
 
-
-
 .campo label {
     color: #e6005a;
     font-weight: bold
@@ -57,7 +55,6 @@
 .cadastro li{
     list-style: none;
 }
-
 
 .cadastro .linkcadastro {
     color: black;
