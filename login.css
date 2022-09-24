@@ -9,7 +9,7 @@
     margin-bottom: 20px;
 }
 
-.caixa-formulario h2 {
+.caixa-formulario h2{
     color: #e6005a;
     margin-bottom: 20px;
 
@@ -28,7 +28,9 @@
     border-radius: 10px;
     border: 2px solid #32b9cd;
     color: black;
+    text-align: center;
 }
+
 
 
 .campo label {
@@ -37,7 +39,6 @@
 }
 
 .caixa-formulario button {
-    margin-top: ;
     width: 120px;
     color: #ffffff;
     background-color: red;
@@ -53,27 +54,11 @@
     opacity: 0.8;
 }
 
-/*
-button {
-    width: 60px;
-    height: 30px;
-    background-color: red;
-    border-radius: 10px;
-    border: 2px solid #000000;
-    
+.cadastro li{
+    list-style: none;
 }
 
-#email{
-    height: 20px;
-    border: 2px solid #32b9cd;
-    border-radius: 5px;
+
+.cadastro .linkcadastro {
+    color: black;
 }
-
-#password {
-    height: 20px;
-    border: 2px solid #32b9cd;
-    border-radius: 5px;
-
-}
-
-*/
